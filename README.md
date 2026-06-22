@@ -1,7 +1,7 @@
 # ⚡ NumeriX — Numerical Methods Interactive Dashboard
 
 An interactive dashboard built with **Python + Streamlit** for visualizing and comparing numerical methods. Developed as a project for **CSE-4746: Numerical Methods Lab** at IIUC (7th Semester).
-
+live link= https://numerix-numerical-methods-interactive-dashboard-yyyinubcw7edb6.streamlit.app/
 ---
 
 ## 📸 Modules
